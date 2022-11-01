@@ -1,5 +1,3 @@
-[//]: #https://img.shields.io/badge/-<name>-<color>?style=<style>&logo=<logo>&logoColor=<logoColor>
-
 <p align="left">
    <img
       alt="Profile Views of mzoesch"
