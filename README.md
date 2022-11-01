@@ -1,9 +1,7 @@
 <p align="left">
    <img
       alt="Profile Views of mzoesch"
-      src="
-      https://komarev.com/ghpvc/?username=mzoesch&label=Profile%20views&style=for-the-badge
-      "
+      src="https://komarev.com/ghpvc/?username=mzoesch&label=Profile%20views&style=for-the-badge"
    >
    <image
       alt="Followers Count"
