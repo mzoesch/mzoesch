@@ -2,12 +2,12 @@
 
 <br />
 
-<h2 style="display:flex; justify-content:center">
+<h2 align="center" style="display:flex; justify-content:center">
    <samp>
       Hello there. I am Magnus Zoeschinger.
    </samp>
 </h2>
-<h4 style="display:flex; justify-content:center">
+<h4 align="center", style="display:flex; justify-content:center">
    <samp>
       「 Studying CS and Computer Linguistics at
       <br/>
@@ -62,7 +62,7 @@
 
 <br />
 
-<div style="display:flex; gap:5px">
+<div align="center", style="display:flex; gap:5px">
   <a
     href="https://github.com/mzoesch?tab=repositories"
     >
@@ -79,7 +79,7 @@
       alt="@mzoesch streak statistics"/>
   </a>
 </div>
-<div>
+<div align="center">
   <img
     alt="Top languages"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=mzoesch&show_icons=true&theme=jolly&hide_border=true&count_private=true"
