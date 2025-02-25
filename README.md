@@ -26,10 +26,12 @@
 <h1>
   Tools
 </h1>
-<div style="display:flex; flex-direction:column;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,,python,fastapi,nginx">
-  <br />
-  <img src="https://skillicons.dev/icons?i=cmake,c,cpp,wasm,go,sqlite,unreal,,,java">
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
+  <div style="display:flex; flex-direction:column;">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,,python,fastapi,nginx">
+    <br />
+    <img src="https://skillicons.dev/icons?i=cmake,c,cpp,wasm,go,sqlite,unreal,,,java">
+  </div>
 </div>
 
 <br />
